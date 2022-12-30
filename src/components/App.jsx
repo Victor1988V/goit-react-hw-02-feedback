@@ -1,4 +1,4 @@
-import { StatWraper, WraperBtn, Btn } from './Statistics/Statistics.styled';
+
 import { Component } from 'react';
 import { Statistics } from './Statistics/Statistics';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
